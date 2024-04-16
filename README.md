@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá me chama João Pedro Ferreira<br> Sou Surdo e falar Libras<br>informática de IT</p>
+<p align="left">Olá me chama João Pedro Ferreira<br>Informática de IT</p>
 
 ###
 
