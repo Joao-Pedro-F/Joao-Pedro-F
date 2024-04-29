@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0074E4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9505&height=120&section=header/>
 
 ###
 
-<p align="left">Olá me chama João Pedro Ferreira<br>Informática de IT</p>
+<p align="center">João Pedro Ferreira </p>
 
 ###
 
