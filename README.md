@@ -8,8 +8,6 @@
 
 <h2 align="left">Gerador Leiame de perfil:</h2>
 
-###
-
 <p align="left">📚 Atualmente estou aprendendo java<br>🎯 Metas: curso do informática</p>
 
 ###
