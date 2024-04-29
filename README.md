@@ -1,1 +1,1 @@
-
+https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=João%20Pedro%20Ferreira&section=header&reversal=false&textBg=true&animation=scaleIn&fontAlignY=50&stroke=ffffff&descAlign=51&strokeWidth=-1
