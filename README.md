@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">João Pedro Ferreira </p>
+<p align="center"><h1>João Pedro Ferreira<h1></p>
 
 ###
 
-<h2 align="left">Gerador Leiame de perfil</h2>
+<h2 align="left">Gerador Leiame de perfil:</h2>
 
 ###
 
