@@ -1,4 +1,4 @@
-<h1 align="left">OLÁ MUNDO!!</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0074E4&height=120&section=header"/>
 
 ###
 
