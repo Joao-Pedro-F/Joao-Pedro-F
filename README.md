@@ -4,6 +4,8 @@
 
 <h2 align="left">Gerador Leiame de perfil:</h2>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left">📚 Atualmente estou aprendendo java<br>🎯 Metas: curso do informática</p>
 
 
