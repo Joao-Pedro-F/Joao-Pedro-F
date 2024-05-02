@@ -45,6 +45,6 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&section=footer&stroke=DC143C"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&section=footer&stroke=DC143C"/>
 
 
