@@ -8,9 +8,10 @@
 <br>
 
 <div align="center">
-  <img src="![joao-pedro-F's Stats](https://github-readme-stats.vercel.app/api?username=joao-pedro-F&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)" height="150" alt="stats graph"  />
-  <img src="![joao-pedro-F's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joao-pedro-F&theme=vue-dark&hide_border=false)" height="150" alt="languages graph"  />
-   <img src="![joao-pedro-F's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-F&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)" height="150" alt="languages graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-pedro-F&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-pedro-F&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-F&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 
