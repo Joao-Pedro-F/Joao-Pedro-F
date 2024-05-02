@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&section=footer&stroke=	FF0000&strokeWidth=0000"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&section=header&stroke=	FF0000&strokeWidth=0000"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=João%20Pedro%20Ferreira&section=header&reversal=false&textBg=true&animation=scaleIn&fontAlignY=50&stroke=ffffff&descAlign=51&strokeWidth=-1"/>
 
 
