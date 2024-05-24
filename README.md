@@ -15,8 +15,6 @@
 </div>
 
 
-<h2 align="left">Eu codifico com </h2>
-
 ###
 
 <div align="cneter">
