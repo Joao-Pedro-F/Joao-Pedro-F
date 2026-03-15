@@ -41,7 +41,7 @@
 ---
 
 ### 📂 Meus Projetos em Destaque
-- **[Sistema To-Do Java](https://github.com/Joao-Pedro-F/Portfolio-Jp)**: API REST completa usando Spring Boot e arquitetura em camadas.
+- **[Sistema To-Do Java](https://projeto-listatodo-java.onrender.com/)**: API REST completa usando Spring Boot e arquitetura em camadas.
 - **[Sistema de Gestão Escolar](https://projeto-integracao-jp.onrender.com/)**: CRUD complexo com modelagem relacional avançada.
 - **[Autenticação de Usuários](https://projeto-login-jp.onrender.com)**: Sistema seguro com Python e MySQL.
 
