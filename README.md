@@ -1,4 +1,4 @@
-👋 Olá, eu sou João Pedro Felix!
+Olá, eu sou João Pedro !
 
 🎓 Estudante de Desenvolvimento de Sistemas na EEEP Onélio Porto, em Fortaleza-CE.
 
