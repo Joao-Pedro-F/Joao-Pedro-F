@@ -4,7 +4,7 @@ Olá, eu sou João Pedro !
 
  Tenho foco em Back-End, desenvolvimento de APIs REST, bancos de dados e arquitetura de sistemas.
 
-Atualmente trabalho/estudo principalmente com Java, C#, .NET, Python e SQL.
+Atualmente trabalho principalmente com C#, .NET e SQL.
 
 ---
 
